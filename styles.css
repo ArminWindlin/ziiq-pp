@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #bbcad5;
+}
+
+.content-container {
+    width: 90vw;
+    max-width: 900px;
+    margin: 20px auto 0 auto;
+    color: #202020;
+}
